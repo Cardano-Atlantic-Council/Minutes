@@ -20,4 +20,5 @@ member of the Interim Constitutional Committee for the Cardano blockchain.
 * [January 31st, 2025](./20250131.md)
 * [February 7th, 2025](./20250207.md)
 * [February 14th, 2025](./20250214.md)
+* [February 28th, 2025](./20250228.md)
 
